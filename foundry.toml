@@ -7,7 +7,7 @@ remappings = [
   '@/src=src',
   '@/script=script',
   '@/tests=tests',
-  # '@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
+  '@openzeppelin/contracts=lib/openzeppelin-contracts/contracts',
   '@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/'
 ]
 
